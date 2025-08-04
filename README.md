@@ -31,7 +31,8 @@ Datasets used are sourced from public repositories and are included in project f
 ## Contact
 
 Created by Deo Rejan  
-[LinkedIn Profile](https://www.linkedin.com/in/yourprofile) (replace with your actual link)  
+Linkedin: https://www.linkedin.com/in/deo-rejan-ab850718b/
+
 Feel free to reach out with questions or collaboration ideas!
 projects
 Machine Learning projects
